@@ -1,0 +1,9 @@
+# Simple Library Management System Requirements
+# Core Python libraries (built-in, no installation needed)
+# - tkinter (GUI framework)
+# - json (data serialization)
+# - os (file operations)
+# - datetime (date/time handling)
+
+# No external packages required - all dependencies are built-in Python modules
+# Python 3.7+ recommended for best compatibility
